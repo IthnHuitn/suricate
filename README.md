@@ -41,10 +41,13 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Задание1-1](https://github.com/IthnHuitn/suricate/blob/main/Задание1-1.jpg)
 
+![Задание1-2](https://github.com/IthnHuitn/suricate/blob/main/Задание1-2.jpg)
 
+![Задание1-3](https://github.com/IthnHuitn/suricate/blob/main/Задание1-3.jpg)
+
+![Задание1-4](https://github.com/IthnHuitn/suricate/blob/main/Задание1-4.jpg)
 ---
 
 ### Задание 2
@@ -65,10 +68,11 @@
 ....
 ....
 ```
+![Задание2-1](https://github.com/IthnHuitn/suricate/blob/main/Задание2-1.jpg)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Задание2-2](https://github.com/IthnHuitn/suricate/blob/main/Задание2-2.jpg)
 
+![Задание2-3](https://github.com/IthnHuitn/suricate/blob/main/Задание2-3.jpg)
 
 ---
 
